@@ -1,4 +1,4 @@
 code_lookup
 ===========
 
-Never solve the same problem twice, document your grwoth as a developer
+Keep track of your growth as a developer with Code-Lookup. 
